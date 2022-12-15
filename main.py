@@ -9,7 +9,7 @@ import numpy as np
 import requests
 import eventlet as eventlet
 
-token = '7cb034837cb034837cb03483ec7cde764977cb07cb03483216f9200d839834708aba96f'
+token = ''
 output = open('out.md', 'w')
 
 
